@@ -13,34 +13,7 @@
 
 <br/>
 
-## 👤 Who Am I
 
-```typescript
-const mradulPratap: Developer = {
-  name: "Mradul Pratap",
-  title: "Computer Science Undergraduate | Frontend Developer",
-  username: "@pratap18mradul",
-
-  stack: {
-    languages: ["Python", "C++"],
-    focus: ["Data Structures & Algorithms (C++)"],
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
-    database: ["MySQL"]
-  },
-
-  status: "Actively learning, building, and solving problems",
-
-  contact: {
-    linkedin: "linkedin.com/in/mradul-pratap-42b33732a",
-    email: "pratapmradul18420005@gmail.com",
-    leetcode: "leetcode.com/pratap18mradul"
-  }
-};
-```
-
-<br/>
-
-## 🛠️ Tech Stack
 
 **Languages**
 
